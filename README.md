@@ -4,10 +4,8 @@ Human Activity Recognition Using Smartphones
 
 Files
 
-CodeBook.md a code book that describes the variables, the data, and any 
-transformations.
 
-datascript.R: prepare and follows the steps to get the required tiny data.
+run_analysis.R: prepare and follows the steps to get the required tiny data.
 1-Merges the training and the test sets to create one data set.
 2-Extracts only the measurements on the mean and standard deviation for each
 measurement.
